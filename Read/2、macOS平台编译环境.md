@@ -13,3 +13,9 @@
 
 ![2.1.3](https://raw.githubusercontent.com/Rtx8080Ti/Hi-C/master/screenshots/2/2.1.3.png)
 
+当然你也可以在App Store下载并安装Xcode
+
+* 安装完毕后输入gcc -version
+* 查看gcc版本
+
+![2.1.3](https://raw.githubusercontent.com/Rtx8080Ti/Hi-C/master/screenshots/2/2.1.4.png)
