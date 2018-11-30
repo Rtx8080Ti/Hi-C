@@ -5,11 +5,11 @@ Hi-C(你好-C)是一个C语言零基础学习项目，针对Github平台从0开�
 
 ## 快速入门
 
-* [windows平台编译环境](http:)
-* [macOS品台编译环境](http:)
-* [Github项目技巧](http:)
-* [Github项目技巧](http:)
-* [常用命令](http:)
+* [1、windows平台编译环境](http:)
+* [2、macOS平台编译环境](http:)
+* [3、Github项目技巧](http:)
+* [4、C题目](http:)
+* [5、常用命令](http:)
 
 
 
