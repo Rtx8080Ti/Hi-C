@@ -24,8 +24,10 @@
 
 命令名|功能描述|使用举例
 ---|:--:|---:
-cd|改变当前目录|cd dirname
 ls|显示当前目录的内容|ls -la
+cd|改变当前目录|cd dirname
+cd ..|返回上一级目录|cd ..
+cd ~|打开根目录|cd ~
 nano|使用nano文本编辑器打开|nano hellow.c
 gcc|编译文件|gcc hellow.c
 ./|运行|./a.out
