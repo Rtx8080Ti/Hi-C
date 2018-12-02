@@ -19,3 +19,22 @@
 * 查看gcc版本
 
 ![2.1.3](https://raw.githubusercontent.com/Rtx8080Ti/Hi-C/master/screenshots/2/2.1.4.png)
+
+## 常用macOS命令
+
+命令名|功能描述|使用举例
+---|:--:|---:
+cd|改变当前目录|cd dirname
+ls|显示当前目录的内容|ls -la
+gcc|编译文件|gcc hellow.c
+./|运行|./a.out
+mkdir|创建一个目录|mkdir name
+rmdir|删除一个目录|rmdir name
+mvdir|移动或重命名一个目录|mvdir name1 name2
+pwd|显示当前目录的路径名|pwd
+dircmp|比较两个目录的内容|dircmp name1 name2
+rm|删除文件或目录|rm filename
+mv|改变文件名或所在目录|mv file1 file2
+find|使用匹配表达式查找文件|find . -name "*.c" -print
+file|显示文件类型|file filename
+open|使用默认的程序打开文件|open filename
