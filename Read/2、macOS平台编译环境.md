@@ -26,6 +26,7 @@
 ---|:--:|---:
 cd|改变当前目录|cd dirname
 ls|显示当前目录的内容|ls -la
+nano|使用nano文本编辑器打开|nano hellow.c
 gcc|编译文件|gcc hellow.c
 ./|运行|./a.out
 mkdir|创建一个目录|mkdir name
