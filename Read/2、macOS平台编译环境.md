@@ -47,4 +47,4 @@ open|使用默认的程序打开文件|open filename
 * ls //显示当前目录的内容  
 * cd Desktop //打开桌面
 * nano //使用nano文本编辑器
-
+* 开始编写代码
