@@ -42,4 +42,7 @@ rm|删除文件或目录|rm filename
 mv|改变文件名或所在目录|mv file1 file2
 find|使用匹配表达式查找文件|find . -name "*.c" -print
 file|显示文件类型|file filename
-open|使用默认的程序打开文件|open filename
+open|使用默认的程序打开文件|open filename  
+## 使用term（终端）创建“hellow world“
+
+
