@@ -1,6 +1,6 @@
 ## Hi-C
 
-Hi-C(你好C)是一个C语言零基础学习项目，针对Github平台从0开始。由WangZhongdong(王中东)开发与维护。
+Hi-C(你好 C)是一个C语言零基础学习项目，针对Github平台从0开始。由WangZhongdong(王中东)开发与维护。
 
 
 ## 快速入门
