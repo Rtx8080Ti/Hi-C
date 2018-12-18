@@ -8,6 +8,7 @@
 
 #include <stdio.h>
 void minmax(int a[],int len,int *min,int *max);     //minmax函数不需要返回值，注意*min
+//void minmax(int *a,int len,int *min,int *max);
 int main(void)
 {
     int a[]={4,3,2,1,6,5,12,34,13,14,53,23,45,67};
@@ -18,6 +19,7 @@ int main(void)
 }
 
 void minmax(int a[],int len,int *min,int *max)      //minmax函数本体
+//void minmax(int *a,int len,int *min,int *max)
 {
     *min = *max=a[0];           //初始化 min，max，a[0]相等
     for(int i=1;i < len;i++)    //从第二个数字开始遍历数组
