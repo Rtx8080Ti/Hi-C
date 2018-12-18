@@ -7,19 +7,19 @@
 //
 
 #include <stdio.h>
-void swap(int *pa,int *pb);     \\swap函数不需要返回值
-int main(void)      \\主函数
+void swap(int *pa,int *pb);     //swap函数不需要返回值
+int main(void)      //主函数
 {
     int a = 5;
     int b = 6;
-    swap(&a,&b);      \\调用swap函数
-    printf("a=%d,b=%d.\n",a,b);     \\输出a和b的值
+    swap(&a,&b);      //调用swap函数 注意是取地址符号&，是&a,&b
+    printf("a=%d,b=%d.\n",a,b);     //输出a和b的值
     return 0;
 }
 
-void swap(int *pa,int *pb)      \\swap函数本体
+void swap(int *pa,int *pb)      //swap函数本体
 {
-    int t = *pa;      \\pa的地址上的数字赋值给t
-    *pa = *pb;        \\pb的地址上的数字赋值给pa
-    *pb = t;          \\t的值赋值给pb所在的地址的数字
+    int t = *pa;      //pa的地址上的数字赋值给t
+    *pa = *pb;        //pb的地址上的数字赋值给pa
+    *pb = t;          //t的值赋值给pb所在的地址的数字
 }
