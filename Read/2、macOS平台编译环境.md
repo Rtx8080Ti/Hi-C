@@ -35,7 +35,7 @@ gcc|编译文件|gcc hellow.c
 ./|运行|./a.out
 mkdir|创建一个目录|mkdir name
 rmdir|删除一个目录|rmdir name
-mvdir|移动或重命名一个目录|mvdir name1 name2
+mv|移动或重命名一个目录|mv name1 name2
 pwd|显示当前目录的路径名|pwd
 dircmp|比较两个目录的内容|dircmp name1 name2
 rm|删除文件或目录|rm filename
